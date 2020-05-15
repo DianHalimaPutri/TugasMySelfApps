@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#ffffff</color>
+
+    //1-- colors for button style --->
+    <color name="gradiant_start_color">#4c84ff</color>
+    <color name="gradiant_end_color">#1ca3fe</color>
+
+    //2-- colors fot tab parent text -->
+    <color name="tab_indikator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_description_color">#656543</color>
+
+</resources>
